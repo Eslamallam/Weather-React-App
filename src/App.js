@@ -4,7 +4,7 @@ import WeatherForm from "./components/weatherForm";
 import Weather from "./components/weather";
 import Error from "./components/Error";
 
-//Sign up on "https://openweathermap.org" to and user your key.
+//Sign up on "https://openweathermap.org" and use your key.
 const API_Key = "YOUR API KEY"; 
 
 class App extends Component {
